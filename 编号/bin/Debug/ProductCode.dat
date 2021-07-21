@@ -1,0 +1,101 @@
+﻿[
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "001",
+    "ProducADD": "0001",
+    "ProducChaannel": "01",
+    "ProducVersions": "12",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "002",
+    "ProducADD": "0001",
+    "ProducChaannel": "02",
+    "ProducVersions": "12",
+    "ProducRemarks": "测试使用1"
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "003",
+    "ProducADD": "0001",
+    "ProducChaannel": "03",
+    "ProducVersions": "12",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "004",
+    "ProducADD": "00C3",
+    "ProducChaannel": "37",
+    "ProducVersions": "12",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "005",
+    "ProducADD": "000B",
+    "ProducChaannel": "16",
+    "ProducVersions": "12",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "006",
+    "ProducADD": "0002",
+    "ProducChaannel": "02",
+    "ProducVersions": "49",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "007",
+    "ProducADD": "0002",
+    "ProducChaannel": "05",
+    "ProducVersions": "49",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "008",
+    "ProducADD": "0002",
+    "ProducChaannel": "06",
+    "ProducVersions": "49",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "009",
+    "ProducADD": "0001",
+    "ProducChaannel": "05",
+    "ProducVersions": "49",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "010",
+    "ProducADD": "0005",
+    "ProducChaannel": "05",
+    "ProducVersions": "49",
+    "ProducRemarks": ""
+  },
+  {
+    "ProductType": "AU",
+    "ProductDate": "216",
+    "ProductSerialNUM": "011",
+    "ProducADD": "000C",
+    "ProducChaannel": "0C",
+    "ProducVersions": "50",
+    "ProducRemarks": ""
+  }
+]
